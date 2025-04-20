@@ -8,7 +8,7 @@ While higher-level languages like Python and Java abstract away much of the unde
 
 - **LinkedList** – Generic doubly linked list built using templates
 
-## ✅ Key Features
+## Key Features
 
 - Fully generic structures using templates
 - Manual memory management (`new`, `delete`)
